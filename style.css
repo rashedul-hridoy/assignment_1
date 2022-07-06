@@ -9,7 +9,7 @@ body{
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 650px;
+    height: 700px;
     margin: 0;
     padding: 100px;
     
@@ -57,7 +57,7 @@ h1{
 
 }
 
-.donation-amount h2{
+h2{
     font-size: 45px;
     font-weight: 700;
     text-align: center;
@@ -104,4 +104,42 @@ h3{
     border: none;
     
     
+}
+
+/*third Section */
+
+.donate-plan{
+    width: 80%;
+    margin: auto;
+}
+
+.donate-plan p{
+    text-align: center;
+    font-size: 18px;
+    padding: 0 250px;
+    color: #666;
+    margin-bottom: 50px;
+}
+.donation-reason{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.brief-reason{
+    padding: 70px 30px 50px 30px;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 5px;
+}
+.brief-reason h4 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.brief-reason p {
+    color: #666;
+}
+
+.brief-reason i {
+    font-size: 50px;
 }
