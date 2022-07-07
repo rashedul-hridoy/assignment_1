@@ -143,6 +143,30 @@ h3{
 .brief-reason i {
     font-size: 50px;
 }
+/*Fourth Section*/
+.daily-life{
+    width: 80%;
+    margin: auto;
+}
+.daily-life p{
+    text-align: center;
+}
+.some-pictures{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    object-fit: contain;
+    
+}
+.half-width img{
+    width: 100%;
+}
+
+
 
 /*Fifth Section */
 
