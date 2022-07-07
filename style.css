@@ -143,3 +143,71 @@ h3{
 .brief-reason i {
     font-size: 50px;
 }
+
+/*Fifth Section */
+
+.my-update {
+    width: 60%;
+    margin: auto;
+}
+.update-text h1 {
+    text-align: center;
+    font-size: 45px;
+    line-height: 50px;
+    color: #333;
+
+    font-weight: 600;
+    margin-bottom: 0;
+
+    margin-top: 200px;
+}
+.update-text p {
+    font-size: 18px;
+    padding-right: 100px;
+    color: #666;
+    margin-bottom: 50px;
+    text-align: center;
+    padding: 0 150px;
+}
+.double-button {
+    padding: 80px 30px;
+    background: #FFF4D6;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.double-button input {
+    background: #ddd;
+    padding: 15px 40px 15px 15px;
+    border: none;
+    margin-right: 0px;
+    border-radius: 5px;
+}
+.double-button button {
+    background: salmon;
+    padding: 15px 40px;
+    border: none;
+    margin-left: -5px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+/*Footer */
+footer{
+    height: 150px;
+    background-color:black ;
+}
+.align-footer{
+    text-align: center;
+    
+    
+}
+.align-footer h1{
+    font-size: 24px;
+    color: #FF5959;
+    padding-top: 50px;
+    font-style: italic;
+}
+.align-footer p{
+    color: whitesmoke;
+}
